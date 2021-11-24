@@ -8,6 +8,8 @@ Versions of the tool can be useful to automate repetitively obtaining online dat
 
 ## Developer: Roman Chuyan
 It was developed for a client in VBA on Excel, as it's the host application.
+The .xlsx workbook contains all the VBA code - just click the button to run, or modify the VBA macro. 
+The app is also saved separately as .bas file. For custom modifications, contact me at the email in my profile.
 
 ## Setup/Dependencies
 Microsoft XML, v6.0.

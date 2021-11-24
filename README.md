@@ -2,8 +2,9 @@
 ### VBA on Excel To Automate Repetitive HTTP Requests With Parameters
 
 ## Functionality
-Developed for a client in VBA on Excel, this simple tool raches to the CBOE web site, downloads the CBOE Put-Call Ratio data for the S&P 500 for a specific date. 
-The above is repeated in a loop to construct the Put-Call Ratio historical data series.
+It was developed for a client in VBA to download the CBOE put-call ratio historical data. 
+This simple tool raches to the exchange web site and downloads the CBOE Put-Call Ratio for the S&P 500 for a specific date. 
+The above is repeated in a loop to construct the put-call Ratio historical data series.
 Versions of the tool can be useful to automate repetitively obtaining online data with multiple parameters (dates, multiple URLs, etc.), such as in finance or banking.
 
 ## Developer: Roman Chuyan
